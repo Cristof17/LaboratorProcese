@@ -1,0 +1,6 @@
+total 40
+-rw-rw-r-- 1 student student   162 mar  7 21:25 Makefile
+-rw-r--r-- 1 student student     0 mar  9 17:52 fisier.txt
+-rwxrwxr-x 1 student student 17816 mar  9 17:52 tiny
+-rw-rw-r-- 1 student student  3573 mar  9 17:52 tiny.c
+-rw-rw-r-- 1 student student 12192 mar  9 17:52 tiny.o
